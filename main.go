@@ -11,4 +11,7 @@ func main() {
 	fmt.Println(name)
 	fmt.Println(myProgramm)
 
+	var newtag string = "Magazine"
+	fmt.Println(newtag)
+
 }
