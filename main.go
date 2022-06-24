@@ -14,4 +14,9 @@ func main() {
 	var newtag string = "Magazine"
 	fmt.Println(newtag)
 
+	var newCar string = "BMW"
+	var money int = 70.000
+	fmt.Println(newCar)
+	fmt.Println(money)
+	
 }
